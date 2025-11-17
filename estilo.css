@@ -1,0 +1,26 @@
+/* Home */
+#home {
+    background: #0D6EFD;
+    padding: 40px 0;
+}
+
+/* Imagens do time */
+#time img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+/* Formulário */
+#contato input,
+#contato textarea {
+    border-radius: 4px;
+}
+
+/* Footer */
+footer {
+    background: #0D6EFD;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
